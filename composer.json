@@ -1,5 +1,5 @@
 {
-    "name": "br-solutions/MDB2_Driver_pgsql",
+    "name": "br-solutions/mdb2_driver_pgsql",
     "description": "This is the PostgreSQL MDB2 driver.",
     "type": "library",
     "require": {
