@@ -1,5 +1,5 @@
 {
-    "name": "nanasess/mdb2_driver_pgsql",
+    "name": "br-solutions/MDB2_Driver_pgsql",
     "description": "This is the PostgreSQL MDB2 driver.",
     "type": "library",
     "require": {
@@ -35,7 +35,7 @@
         "./"
     ],
     "support": {
-        "issues": "https://github.com/nanasess/MDB2_Driver_pgsql/issues",
-        "source": "https://github.com/nanasess/MDB2_Driver_pgsql"
+        "issues": "https://github.com/br-solutions/MDB2_Driver_pgsql/issues",
+        "source": "https://github.com/br-solutions/MDB2_Driver_pgsql"
     }
 }
